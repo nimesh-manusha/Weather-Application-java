@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Weather application</string>
+    <string name="log_out">Log Out</string>
+    <string name="climate_detail_in_our_aplication">Climate Detail in our Aplication</string>
+    <string name="travel_go">TRAVEL GO!</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_user_login">Already User Login</string>
+    <string name="_06_40_am">06:40 AM</string>
+    <string name="_15_jan_2025_20_08_pm">15 JAN 2025, 20:08 PM</string>
+    <string name="max_temp_05_05_pm">Max Temp: 05:05 PM</string>
+    <string name="_30_c">30°C</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset1">Sunset</string>
+    <string name="wind">Wind</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="created_by">Created By</string>
+    <string name="colombo">Colombo</string>
+    <string name="evan">Evan</string>
+    <string name="min_temp_05_05_am">Min Temp: 05:05 AM</string>
+    <string name="_06_41_am">06:40 AM</string>
+    <string name="_06_42_am">06:40 AM</string>
+    <string name="_06_45_am">06:40 AM</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="_06_47_am">06:40 AM</string>
+    <string name="clear_sky">Clear Sky</string>
+    <string name="search">Search</string>
+    <string name="made_by_Manu">made_by_Manu</string>
+</resources>
