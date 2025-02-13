@@ -8,7 +8,7 @@ import android.widget.ProgressBar;
 import android.widget.RelativeLayout;
 import android.widget.SearchView;
 import android.widget.TextView;
-import android.widget.Toast;
+
 import androidx.appcompat.app.AppCompatActivity;
 import org.json.JSONObject;
 import java.io.BufferedReader;
@@ -19,7 +19,6 @@ import java.net.URL;
 
 public class MainActivity extends AppCompatActivity {
 
-    private SearchView searchView;
     private RelativeLayout mainContainer;
     private ProgressBar loader;
     private TextView errorText, address, updatedAt, status, temp, tempMin, tempMax, sunrise, sunset, wind, pressure, humidity, about;
@@ -32,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // Initialize UI Components
-        searchView = findViewById(R.id.searchView);
+        SearchView searchView = findViewById(R.id.searchView);
         mainContainer = findViewById(R.id.mainContainer);
         loader = findViewById(R.id.loader);
         errorText = findViewById(R.id.errorText);
